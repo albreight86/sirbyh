@@ -1,0 +1,3 @@
+test/com/h2rd/refactoring/unit/UserDaoUnitTest.class
+test/com/h2rd/refactoring/integration/UserIntegrationTest.class
+test/com/h2rd/refactoring/unit/UserResourceUnitTest.class
